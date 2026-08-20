@@ -1,6 +1,6 @@
 ## 🌐 Live Portfolio
 
-[Visit My Portfolio](sania-parveen-nisa.netlify.app)
+sania-parveen-nisa.netlify.app
 
 # React + Vite
 
