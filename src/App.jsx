@@ -1,5 +1,5 @@
 import Navbar from "./Components/Navbar";
-import Introduction from "./Components/introduction";
+import Introduction from "./Components/Introduction";
 import AboutMe from "./Components/AboutMe";
 import Educationskills from "./Components/Educationskills";
 import Project from "./Components/Project";
